@@ -38,7 +38,7 @@ I look both at the accuracy and the f1 with microavaraging due to an unbalanced 
 
 ## EDA
 After feature engineering- transforming ranking (1-5) to sentiment (Neg, Nue, Pos), I looked at the sentiment distributions:
-![alt text](https://github.com/CarolinaKra/SentimentAnalysisHotelReviews/blob/main/images/sentimentDistribution.png)
+![](https://github.com/CarolinaKra/SentimentAnalysisHotelReviews/blob/main/images/sentimentDistribution.png)
 
 ## Pre-Processing Strategies
 1. Simple clean and bag of words (tf-idf) for the baseline model
