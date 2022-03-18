@@ -1,4 +1,4 @@
-# Sentiment Analysis on Tourist Accomodation Reviews
+# Sentiment Analysis on Tourist Accommodation Reviews
 I developed a Sentiment Analysis Model for Tourist Accommodation Reviews using Natural Language Processing Techniques.
 The best model achieved a 86.3% accuracy and an f1 with macroaveraging of 64.2% 
 
@@ -11,14 +11,14 @@ The best model achieved a 86.3% accuracy and an f1 with macroaveraging of 64.2%
   2. Ozen, I. A. (2021). Tourism products and sentiment analysis. In C. Cobanoglu, S. Dogan, K. Berezina, & G. Collins (Eds.), Advances in Hospitality and Tourism Information Technology (pp. 1–44). USF M3 Publishing. https://www.doi.org/10.5038/9781732127586
 
 ## Project Overview
-* Developed a model to predict the sentiment of a textual Tourist Accomodation Review
+* Developed a model to predict the sentiment of a textual Tourist Accommodation Review
 * Showed the keywords that are used in negative and positive reviews.
 * Developed different pre-processing strategies using NLP tools. 
 * Applied different machine learning models.
 * Used pre-trained lexicon based-models for sentiment analysis
 * Evaluated the best combination of pre-processing and ML models and the pre-trained model
 * The best model achieved an accuracy of 86.3% and an f1 with macroaveraging of 64.2% 
-* Found that it is feasable to predict positve and negative reviews, but not so much for nuetral ones.
+* Found that it is feasible to predict positive and negative reviews, but not so much the neutral ones.
 
 ## Short Backgroung
 Tourists always have things to say about their holidays, whether they are good or bad. Tourist online platforms take advantage of this and encourage tourists to leave reviews about the tourism products they consumed while on holiday. These reviews are considered as a rich data source of information both for the tourism industry and for future travellers. 
